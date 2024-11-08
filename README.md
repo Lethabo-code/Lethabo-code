@@ -14,5 +14,5 @@ I’m a passionate IoT software developer with 1 year of experience at Greycode,
 
 📂 **Projects**
 - [Health Monitoring System](link-to-project)
-- [Tape-following Robot](link-to-project)
+- [Tape-following Robot](https://github.com/Lethabo-code/Tape-Following-Robot-)
 - [ESP32 Blynk Projects](https://github.com/Lethabo-code/Blynk-projects)
