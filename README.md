@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lethabo Thibela 👋
+### IoT Software Developer | C++ Enthusiast | ESP32 Aficionado
 
-<!--
-**Lethabo-code/Lethabo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**
+I’m a passionate IoT software developer with 1 year of experience at Greycode, currently working with projects that span temperature monitoring, health monitoring systems, and tape-following robots.
 
-Here are some ideas to get you started:
+📚 **Education**
+- National Diploma in Computer System Engineering (Graduating March 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Skills**
+- Programming: C++, Python, SQL, PLC
+- Platforms: Azure IoT Central, Datacake, ThingsBoard, Blynk
+- Hardware: ESP32, DHT sensors, DS18B20, Pulse Oximeter
+
+📂 **Projects**
+- [Health Monitoring System](link-to-project)
+- [Tape-following Robot](link-to-project)
+- ESP32 Blynk Projects
